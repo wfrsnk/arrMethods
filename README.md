@@ -1,1 +1,1 @@
-# arrMethods
+Методы работы с массивами JavaScript
